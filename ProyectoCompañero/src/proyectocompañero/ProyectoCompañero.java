@@ -16,6 +16,7 @@ public class ProyectoCompañero {
      */
     public static void main(String[] args) {
         System.out.println("Hola, Compañero");
+        System.out.ptintln("Primer cambio");
     }
     
 }
